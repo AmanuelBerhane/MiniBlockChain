@@ -1,5 +1,6 @@
 # MiniBlockChain
 
+<<<<<<< HEAD
 # MiniBlockchain: A Simple Java Blockchain Implementation
 
 This project implements a minimal blockchain in Java, focusing on core concepts like cryptographic linking, block structure, and basic Proof-of-Work. It's designed to be easy to understand and explore the fundamentals of blockchain technology.
@@ -24,3 +25,5 @@ If you try to change the message in one box, the special code for that box chang
 
 MiniBlockChain implements this idea in Java.  It's a simplified version, but it captures the essence of how blockchains work.
 
+=======
+>>>>>>> d2ed192 (Created project files)
